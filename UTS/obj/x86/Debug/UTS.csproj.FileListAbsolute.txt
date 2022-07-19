@@ -1,0 +1,15 @@
+C:\Users\asus\AppData\Local\Temporary Projects\UTS\bin\Debug\UTS.exe
+C:\Users\asus\AppData\Local\Temporary Projects\UTS\bin\Debug\UTS.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\UTS\obj\x86\Debug\UTS.Form1.resources
+C:\Users\asus\AppData\Local\Temporary Projects\UTS\obj\x86\Debug\UTS.Properties.Resources.resources
+C:\Users\asus\AppData\Local\Temporary Projects\UTS\obj\x86\Debug\UTS.csproj.GenerateResource.Cache
+C:\Users\asus\AppData\Local\Temporary Projects\UTS\obj\x86\Debug\UTS.exe
+C:\Users\asus\AppData\Local\Temporary Projects\UTS\obj\x86\Debug\UTS.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\UTS\UTS\obj\x86\Debug\UTS.exe
+C:\Users\asus\documents\visual studio 2010\Projects\UTS\UTS\obj\x86\Debug\UTS.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\UTS\UTS\bin\Debug\UTS.exe
+C:\Users\asus\documents\visual studio 2010\Projects\UTS\UTS\bin\Debug\UTS.pdb
+C:\Users\asus\documents\visual studio 2010\Projects\UTS\UTS\obj\x86\Debug\UTS.Form1.resources
+C:\Users\asus\documents\visual studio 2010\Projects\UTS\UTS\obj\x86\Debug\UTS.Properties.Resources.resources
+C:\Users\asus\documents\visual studio 2010\Projects\UTS\UTS\obj\x86\Debug\UTS.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UTS\UTS\obj\x86\Debug\UTS.csprojResolveAssemblyReference.cache
